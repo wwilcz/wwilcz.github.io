@@ -4,9 +4,6 @@ appodeal.com, 98371, DIRECT
 bidmachine.io, 98371, DIRECT
 #AdMob
 google.com, pub-5999802022724504, DIRECT, f08c47fec0942fa0
-#Facebook
-#Replace the Business ID below with your Facebook Business ID
-facebook.com, 145321273770050, RESELLER, c3e20eee3f780d68
 #AdColony
 adcolony.com, fcaa373cac67c9f927aa914013b8346e, RESELLER, 1ad675c9de6b5176
 #Applovin
@@ -160,8 +157,6 @@ beachfront.com, 5472, RESELLER, e2541279e8e2ca4d
 spotxchange.com, 239904, RESELLER, 7842df1d2fe2db34
 spotx.tv, 239904, RESELLER, 7842df1d2fe2db34
 advertising.com, 28210, RESELLER
-https://gothamads.com/, 419, DIRECT, d9c86e5dec870222
-https://gothamads.com/, 422, DIRECT, d9c86e5dec870222
 imonomy.com, 2189, RESELLER
 mars.media, 102825, DIRECT
 criteo.com, 180031, DIRECT
